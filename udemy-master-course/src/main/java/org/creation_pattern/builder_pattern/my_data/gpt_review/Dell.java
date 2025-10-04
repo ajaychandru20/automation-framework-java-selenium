@@ -1,4 +1,4 @@
-package org.creation_pattern.builder_pattern.my_data;
+package org.creation_pattern.builder_pattern.my_data.gpt_review;
 
 public class Dell {
     public static void main(String[] args) {
